@@ -10,3 +10,5 @@ Partendo dal sorgente (non indico il namespace):
 
 Partendo dal Docker hub:
 - docker run -d -v ~/Sites/laravel:/var/www/html -p 80:80 --name=lara umigliore/laraimage
+
+[![](https://images.microbadger.com/badges/version/umigliore/laraimage.svg)](https://microbadger.com/images/umigliore/laraimage "Get your own version badge on microbadger.com")
